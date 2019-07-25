@@ -1,6 +1,6 @@
 # danasah730
 DanaSah and DanaSah LimitStrength 7.3
-Chess engine compatible uci and xboard protocol.
+Chess engine compatible uci and xboard protocol
 (C) Pedro Castro
 Software GNU GPL3 license
 
