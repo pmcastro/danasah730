@@ -1,2 +1,7 @@
 # danasah730
- DanaSah 7.3 chess engine uci and xboard
+DanaSah and DanaSah LimitStrength 7.3.
+Chess engine compatible uci and xboard protocol.
+(C) Pedro Castro.
+Software GNU GPL3 license.
+
+For more information and setting look at the website: https://sites.google.com/site/danasah/
